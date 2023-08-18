@@ -6,3 +6,5 @@ am so happy about everything
 
 >>x is the opposite of all this 
 the music is loud 
+git add 
+added one line 
